@@ -1,0 +1,39 @@
+.header_font_green {
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+}
+
+.header_font_brown {
+  font-family: Arial, Helvetica, sans-serif;
+  color: brown;
+}
+
+.header_font_blue {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: blue;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: darkgray;
+}
+
+.p_deep_blue {
+  color: deepskyblue;
+}
+
+.p_font_italic {
+  font-style: italic;
+}
+
+.p_font_bold {
+  font-weight: 800;
+}
+
+.pic_small {
+  width: 20%;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  border: 1px solid darkgray;
+  border-radius: 12%;
+}
