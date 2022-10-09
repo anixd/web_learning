@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.all_font {
+    font: normal 16px 'Roboto', sans-serif;
+    width: 50%;
+}
+
+.span_red {
+    color: red;
+}
+
+.span_line {
+    text-decoration: underline;
+}
+
+.span_italic {
+    font-style: italic;
+}
+
+.span_green {
+    text-decoration: underline;
+    color: green;
+}
+
+.span_dark_red {
+    color: rgb(99, 3, 3) ;
+}
+
+.span_line_2 {
+    text-decoration: underline;
+    color: green;
+}
+
+.span_italic_2 {
+    font-style: italic;
+    color: red;
+}
+
+.span_italic_line {
+    font-style: italic;
+    text-decoration: underline;
+} 
